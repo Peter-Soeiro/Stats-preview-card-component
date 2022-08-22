@@ -10,6 +10,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "sass": "^1.48.0"
-  }
+    "sass": "^1.54.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peter-Soeiro/Stats-preview-card-component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Peter-Soeiro/Stats-preview-card-component/issues"
+  },
+  "homepage": "https://github.com/Peter-Soeiro/Stats-preview-card-component#readme"
 }
